@@ -1,0 +1,12 @@
+.gradient-custom-2 {
+    /* Fallback para navegadores antiguos que no admiten gradientes lineales */
+    background-color: #ff8c00;
+    
+    /* Para Chrome 10-25 y Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, #ee7724);
+    
+    /* Para navegadores modernos según el estándar W3C */
+    background: linear-gradient(to right, #ee7724);
+}
+
+

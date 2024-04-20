@@ -1,0 +1,8 @@
+-entrar al terminal de visual studio code
+-buscar el icono de mas y dar click al lado para abrir terminal gitbash
+-Luego digitar el siguiente comando: php artisan serve 
+-dar enter
+Ir al navegador y pegar esta dirección: http://127.0.0.1:8000
+
+
+Nota: para poder ejecutar este host local tenemos que tener configurado el framework laravel y tambien tener enlazada la herramienta de versionamiento en visual studio code
